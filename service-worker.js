@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.dab9ec07e2758f7fdf83d1e2a52f6983.js"
+  "precache-manifest.6c1b95d7f80159fd4085aebfba7aacc0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "shyme"});
